@@ -16,6 +16,6 @@ A simple Python console program inspired by the Magic 8-Ball. The user asks a qu
 ## How to Run
 
 ```bash
-python magic_ball.py
+python magical_ball.py
 ```
 
